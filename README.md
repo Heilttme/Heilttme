@@ -4,7 +4,6 @@
 
 [![Email](https://img.shields.io/badge/Email-niksorokin77%40yandex.ru-blue)](mailto:niksorokin77@yandex.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-%40Heilttme-blue)](https://t.me/Heilttme)
-[![GitHub](https://img.shields.io/badge/GitHub-Heilttme-blue)](https://github.com/Heilttme)
 [![Website](https://img.shields.io/badge/Website-nikitasorokin.ru-blue)](https://nikitasorokin.ru)
 
 ---
