@@ -15,7 +15,7 @@
 ## Навыки
 
 - **Языки программирования:** JavaScript, TypeScript, Python
-- **Фреймворки:** React, Django, Django Rest Framework
+- **Фреймворки:** React, Next.js, Django, Django Rest Framework
 - **Другие технологии:** ChartJS, Styled Components, Redux, Effector, Jest, Webpack
 - **Веб-технологии:** HTML, CSS, Sass, Tailwind CSS
 - **Инструменты:** Git, Docker, Figma
